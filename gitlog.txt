@@ -1,0 +1,17 @@
+commit c8efda5ad5b2e9cf123d74f3060a900f172c1f9f
+Author: tohaku-git <67587078+tohaku-git@users.noreply.github.com>
+Date:   Thu Jul 2 00:37:56 2020 +0900
+
+    added gitignore
+
+commit 58ef68166344adf3dc7f60b9a02da53b39ef1a03
+Author: tohaku-git <67587078+tohaku-git@users.noreply.github.com>
+Date:   Tue Jun 30 22:42:33 2020 +0900
+
+    added two files
+
+commit 082ded2e5fd26b35bd4b41b1ad4b5a0d1c63ccbd
+Author: tohaku-git <67587078+tohaku-git@users.noreply.github.com>
+Date:   Tue Jun 30 22:14:30 2020 +0900
+
+    added readme.txt
